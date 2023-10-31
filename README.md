@@ -9,7 +9,7 @@ The goal is to reach the final position in minimum number of steps possible from
 ## The game is divided into three level, a player can choose any one of them.
 ![Screenshot 2022-12-18 200425](https://user-images.githubusercontent.com/54525819/208315618-250dbc0a-e641-4bcd-b0b4-e894b4a3167e.png)
 
-Further on there is points assigned for the game.
+Further on there is points system assigned to the game.
 * If player complete the game is most efficient way possible(minimum no. of moves) he/she recieves 20 points game won.
 ![image](https://user-images.githubusercontent.com/54525819/208315925-b97438d4-2b89-4c7f-b523-662ccd0d6dc9.png)
 
